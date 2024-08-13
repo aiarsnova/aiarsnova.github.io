@@ -22,7 +22,7 @@ title: "AI Ars Nova"
 description: "Explore music via AI."
 baseurl: "" # baseurl: "/so-simple-theme"
 url: "https://aiarsnova.github.io" # url: "https://mmistakes.github.io"
-logo: "/images/aiarsnova_logo_circle.png" # "/images/so-simple-site-logo.png"
+logo: "/images/aiarsnova_logo_circle_color.png" # "/images/so-simple-site-logo.png"
 date_format: "%B %-d, %Y"
 read_time: false
 words_per_minute: # 200
@@ -113,7 +113,7 @@ defaults:
 # Site Author
 author:
   name: AI Ars Nova # Michael Rose
-  picture: /images/aiarsnova_logo_circle.png # /images/michael-rose-photo.jpg
+  picture: /images/aiarsnova_logo_circle_color.png # /images/michael-rose-photo.jpg
   email:
   twitter: # mmistakes
   links:
