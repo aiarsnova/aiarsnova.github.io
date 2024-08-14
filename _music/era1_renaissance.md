@@ -1,10 +1,10 @@
 ---
 title: "Classical Music by Era Series: Renaissance"
-date: 2024-06-27
+date: 2024-06-25
 image: 
   path: /images_music/era_renaissance.png
   thumbnail: /images_music_smaller/era_renaissance.png
-  caption: "Photo from AI Ars Nova"
+  caption: "Photo from Pixabay"
 share: false
 ---
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto; margin-bottom: 20px;">
@@ -26,3 +26,4 @@ A short piece of Renaissance style music with contrapuntal, polyphonic tones.
 
 # Made with 
 - 🎵 music powered by: www.udio.com
+- 🖼️ images from: Pixabay, Wikipedia

@@ -4,7 +4,7 @@ date: 2024-06-24
 image: 
   path: /images_music/memorial2.png
   thumbnail: /images_music_smaller/memorial2.png
-  caption: "Photo from AI Ars Nova"
+  caption: "Photo from Pexels"
 share: false
 ---
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto; margin-bottom: 20px;">

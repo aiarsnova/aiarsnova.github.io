@@ -4,7 +4,7 @@ date: 2024-05-24
 image: 
   path: /images_music/seasonal1_family_and_growth.png
   thumbnail: /images_music_smaller/seasonal1_family_and_growth.png
-  caption: "Photo from AI Ars Nova"
+  caption: "Photo from Pixabay"
 share: false
 ---
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto; margin-bottom: 20px;">

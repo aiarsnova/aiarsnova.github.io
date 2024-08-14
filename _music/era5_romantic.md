@@ -1,23 +1,23 @@
 ---
-title: "Classical Music by Era Series: Baroque"
-date: 2024-06-27
+title: "Classical Music by Era Series: Romantic"
+date: 2024-07-21
 image: 
-  path: /images_music/era_baroque.png
-  thumbnail: /images_music_smaller/era_baroque.png
-  caption: "Photo from AI Ars Nova"
+  path: /images_music/era_romantic.png
+  thumbnail: /images_music_smaller/era_romantic.png
+  caption: "Photo from Pixabay"
 share: false
 ---
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto; margin-bottom: 20px;">
-  <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/c_zQSpTbNt8?si=U5HityZwKm6kIioT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/_sX3shFbIA8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 # Tracks
-1. **Baroque Solitude** (00:00): A piece of Baroque cello music captures a moment of peaceful solitude.
+1. **Lamentation** (00:00): The piece of music "Lamentation" is a tribute to express my condolences and heartfelt emotions to the passing of a friend of mine I deeply respected. 
 
-2. **Regal Fugue** (01:41): A piece of Baroque music in the style of Bach that depicts the agonies one comes across in their life journey.
+2. **Companion** (02:40): A romantic music that portrays the genuine friendship between people who have trust and respect for each other.
 
-3. **Early Summer Radiance** (03:19): A flute Baroque music that depicts the crystal-clear sky and the warm, shining sunshine of early summer.
+3. **Whispers in the Wind** (05:22): The dreamy and ethereal romantic piano music whisked the listener away to a world of fantasy and romance.
 
 # Made with 
 - 🎵 music powered by: www.udio.com
-- 🖼️ cover images powered by: Copilot
+- 🖼️ images from: Pixabay, Wikipedia
