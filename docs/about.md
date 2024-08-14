@@ -1,6 +1,6 @@
 ---
 title: About AI Ars Nova
-layout: page
+layout: about
 permalink: /about/
 excerpt: "About AI Ars Nova"
 ---
